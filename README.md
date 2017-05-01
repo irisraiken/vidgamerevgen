@@ -10,6 +10,7 @@
 #title of the game and punctuation marks were also taken out of the word cloud as indicated by code
 
 #download zip file to test our project!
+#use Processing 3 in java mode
 
 #install wordcram to processing to use this code
 #http://wordcram.org/
