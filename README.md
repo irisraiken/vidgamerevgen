@@ -1,4 +1,4 @@
-# vidgamerevgen
+# Video Game Reviews Visualizer/Generator
 
 #done for class group project with 
 #Marshall #Logan #Melanie #Iris
